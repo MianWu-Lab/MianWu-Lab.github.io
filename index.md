@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# 👋 Welcome to Mian Wu's Lab
+# 👋 Hi, I'm Mian Wu
 
-I'm a **Master's student** at [Xi’an Jiaotong University](https://www.xjtu.edu.cn), advised by Prof. Xiuxiu Bai..  
+I'm a **Master's student** at [Xi’an Jiaotong University](https://www.xjtu.edu.cn), advised by Prof. Xiuxiu Bai.  
 My research focuses on **deep learning**, **computer vision**, and **text-to-image generation**.
 
 ---
@@ -21,12 +21,7 @@ My research focuses on **deep learning**, **computer vision**, and **text-to-ima
 
 ### 🖼️ Text-to-Image Generation Framework
 A lightweight diffusion-based model for high-quality image synthesis from text prompts.  
-[GitHub](https://github.com/MianWu-Lab/t2i-framework) | [arXiv](https://arxiv.org/abs/xxxx.xxxxx)
-
----
-
-## 📚 Publications
-- ...
+[GitHub](https://github.com/MianWu-Lab/t2i-framework)
 
 ---
 
