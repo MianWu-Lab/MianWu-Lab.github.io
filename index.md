@@ -27,6 +27,7 @@ A lightweight diffusion-based model for high-quality image synthesis from text p
 
 ## 📩 Contact
 - Email: [wumianan@163.com](mailto:wumianan@163.com)
+- school_email: [wumian@stu.xjtu.edu.cn](mailto:wumian@stu.xjtu.edu.cn)
 - GitHub: [@MianWu-Lab](https://github.com/MianWu-Lab)
 
 > "The best way to predict the future is to invent it." — Alan Kay
