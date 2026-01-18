@@ -1,13 +1,31 @@
 # Site settings
 title: Mian Wu's Lab
 email: wumianan@163.com
-description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my research lab! I'm a Master's student at Xi’an Jiaotong University, focusing on deep learning and computer vision.
+description: >
+  A research lab by Mian Wu, Master's student at Xi’an Jiaotong University.
+  Focused on deep learning, computer vision, and generative models.
 
-# Base URL (will be used to generate absolute URLs)
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://MianWu-Lab.github.io" # the base hostname & protocol for your site
+# URL settings
+url: "https://MianWu-Lab.github.io"
+baseurl: ""
+
+# Author info (used in footer and meta)
+author:
+  name: Mian Wu
+  affiliation: Xi’an Jiaotong University
+  email: wumianan@163.com
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate  # 更现代、适合学术/技术展示的主题
+
+# Plugins (GitHub Pages 默认支持)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
