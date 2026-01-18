@@ -4,7 +4,7 @@ layout: default
 
 # 👋 Welcome to Mian Wu's Lab
 
-I'm a **Master's student** at [Xi’an Jiaotong University](https://www.xjtu.edu.cn), advised by Prof. XXX.  
+I'm a **Master's student** at [Xi’an Jiaotong University](https://www.xjtu.edu.cn), advised by Prof. Xiuxiu Bai..  
 My research focuses on **deep learning**, **computer vision**, and **text-to-image generation**.
 
 ---
