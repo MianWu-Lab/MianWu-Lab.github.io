@@ -1,0 +1,13 @@
+# Site settings
+title: Mian Wu's Lab
+email: wumianan@163.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my research lab! I'm a Master's student at Xi’an Jiaotong University, focusing on deep learning and computer vision.
+
+# Base URL (will be used to generate absolute URLs)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://MianWu-Lab.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
